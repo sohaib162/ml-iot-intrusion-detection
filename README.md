@@ -168,4 +168,4 @@ probs = pipe.predict_proba(X_new)  # if supported
 ---
 
 ## License
-This project is released under the **MIT License** (adjust if your org/course requires a different license).
+This project is released under the **MIT License** .
